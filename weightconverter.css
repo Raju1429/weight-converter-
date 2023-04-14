@@ -1,0 +1,16 @@
+body{
+    scroll-behavior: smooth;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#navbarr li:hover{
+background-color:grey;
+color: white;
+}
+.bg-teal, .btn-teal{
+    background-color: #236666 !important;
+}
+.text-teal{
+    color:white !important;
+}.carousel-caption{
+    bottom: 230px;
+}
